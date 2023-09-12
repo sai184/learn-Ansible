@@ -1,3 +1,0 @@
-- name:Frontend Setup
-  hosts:all
-  tasks:
